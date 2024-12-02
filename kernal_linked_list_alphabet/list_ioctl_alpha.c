@@ -299,5 +299,5 @@ module_exit(my_mod_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("EDD <edd@cdac.gov.in>");
-MODULE_DESCRIPTION("Hello world module!");
+MODULE_DESCRIPTION("list_ioctl_alpha module!");
 
