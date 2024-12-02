@@ -33,3 +33,7 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- clean
 
 # project send to beaglebone
 scp -r kernal_employee_record/ debian@192.168.7.2:~/.
+
+# make excutable script.sh
+chmod +x script.sh
+./script.sh
